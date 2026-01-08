@@ -9,7 +9,7 @@ public class primesum {
         {
             if(n%i==0)
             {
-                flag=false;
+                flag=true;
             }
         }
         return flag;
